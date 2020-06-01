@@ -9,8 +9,8 @@ class PDOConnection
 	{
 		$this->isConfig = array(
 			'host' => 'localhost',
-			'username' => 'vhost',
-			'password' => '123456',
+			'username' => 'root',
+			'password' => '',
 			'database' => 'friendne_hakko',
 			'table' => 'hak_',
 			'set' => 'utf8',
